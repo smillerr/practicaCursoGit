@@ -1,0 +1,22 @@
+ body {
+
+    background-color: beige;
+    text-align: center ;
+    font-family: 'Times New Roman', Times, serif;
+ }
+
+
+ #contenedor {
+
+    width: 50%;
+    margin: 0px;
+    padding: 2rem;
+    border: 2px solid cornflowerblue;
+    text-align: center;
+ }
+
+
+ #contenedor h1 {
+    font-size: 15px;
+    font-weight: bold;
+ }
